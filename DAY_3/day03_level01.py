@@ -11,8 +11,9 @@ complex_number = 3 + 4j
 #E4
 base = float(input())  # Enter base: 20
 height_triangle = float(input())  # Enter height: 10
-area = 0.5 * base * height_triangle
+area = (0.5 * base * height_triangle)
 print("The area of the triangle is", area)
+
 
 #E5
 a = float(input())  # Enter side a: 5

@@ -1,4 +1,4 @@
-# Ejercicio 1
+# DIA DOS EJERCICIOS EJERCICIOS DE EL NIVEL 1
 
 primer_nombre  =                 'GUAYABER'
 segundo_nombre =                 'PRINCIPE'
